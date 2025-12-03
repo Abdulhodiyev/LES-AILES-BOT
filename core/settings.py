@@ -143,8 +143,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOW_ALL_ORIGINS = True
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://d.ezma.uz',
-    'http://d.ezma.uz',
+    'https://b.ezma.uz',
+    'http://b.ezma.uz',
 ]
 
 try:
